@@ -85,11 +85,11 @@ for i in range(0,9):
 ![](https://github.com/RanjithD18/Thresholding/blob/main/6.png)
 
 ### Adaptive Thresholding
-![](https://github.com/RanjithD18/Thresholding/blob/main/7.png)
+![](https://github.com/RanjithD18/Thresholding/blob/main/9.png)
 ![](https://github.com/RanjithD18/Thresholding/blob/main/8.png)
 
 ### Optimum Global Thesholding using Otsu's Method
-![](https://github.com/RanjithD18/Thresholding/blob/main/9.png)
+![](https://github.com/RanjithD18/Thresholding/blob/main/7.png)
 
 
 ## Result
