@@ -7,21 +7,23 @@ To segment the image using global thresholding, adaptive thresholding and Otsu's
 2. OpenCV
 
 ## Algorithm
+### Step 1:
+Load the necessary packages.
 
-### Step1:
-<br>
+### Step 2:
+Read the Image and convert to grayscale.
 
-### Step2:
-<br>
+### Step 3:
+Use Global thresholding to segment the image.
 
-### Step3:
-<br>
+### Step 4:
+Use Adaptive thresholding to segment the image.
 
-### Step4:
-<br>
+### Step 5:
+Use Otsu's method to segment the image.
 
-### Step5:
-<br>
+### Step 6:
+Display the results.
 
 ## Program
 
@@ -73,32 +75,21 @@ for i in range(0,9):
 ## Output
 
 ### Original Image
-<br>
-<br>
-<br>
-<br>
-<br>
+![](https://github.com/RanjithD18/Thresholding/blob/main/1.png)
 
 ### Global Thresholding
-<br>
-<br>
-<br>
-<br>
-<br>
+![](https://github.com/RanjithD18/Thresholding/blob/main/2.png)
+![](https://github.com/RanjithD18/Thresholding/blob/main/3.png)
+![](https://github.com/RanjithD18/Thresholding/blob/main/4.png)
+![](https://github.com/RanjithD18/Thresholding/blob/main/5.png)
+![](https://github.com/RanjithD18/Thresholding/blob/main/6.png)
 
 ### Adaptive Thresholding
-<br>
-<br>
-<br>
-<br>
-<br>
+![](https://github.com/RanjithD18/Thresholding/blob/main/7.png)
+![](https://github.com/RanjithD18/Thresholding/blob/main/8.png)
 
 ### Optimum Global Thesholding using Otsu's Method
-<br>
-<br>
-<br>
-<br>
-<br>
+![](https://github.com/RanjithD18/Thresholding/blob/main/9.png)
 
 
 ## Result
